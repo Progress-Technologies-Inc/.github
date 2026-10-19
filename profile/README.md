@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/progress-technologies-horizontal-white-1200w.png">
-  <img src="assets/progress-technologies-horizontal-color-1200w.png" alt="Progress Technologies" width="300">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Progress-Technologies-Inc/.github/main/profile/assets/progress-technologies-horizontal-white-1200w.png">
+  <img src="https://raw.githubusercontent.com/Progress-Technologies-Inc/.github/main/profile/assets/progress-technologies-horizontal-color-1200w.png" alt="Progress Technologies" width="300">
 </picture>
 
 ## Progress Technologies, Inc.

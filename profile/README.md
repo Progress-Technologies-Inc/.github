@@ -9,7 +9,7 @@ Progress Technologies designs, builds and operates custom software, systems and 
 
 ### What we work on
 
-- **Practical software development**: web applications, WordPress plugins and service APIs built for a specific job.
+- **Practical software development**: custom web applications, mobile apps, portals, WordPress plugins and service APIs built for a specific job.
 - **Systems integration**: connecting the systems a business already uses, such as ordering, commerce, fulfillment and internal records.
 - **AI-enabled automation**: using AI tools to automate routine reporting, monitoring and operational work.
 

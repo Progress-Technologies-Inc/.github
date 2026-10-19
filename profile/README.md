@@ -29,9 +29,7 @@ Tide data is NOAA-derived and delivered through the Nestides hosted service. NOA
 
 ### Learning and community
 
-Our founder takes part in the NVIDIA Developer Program, the Google Developer Program and the Google Cloud & NVIDIA community. These communities support our ongoing learning and exploration of AI tools and development practices, and have been an integral part of building TonyOS, our AI continuity system.
-
-Program participation only; this is not a partnership with or endorsement by NVIDIA or Google.
+We participate in the NVIDIA Developer Program, Google Developer Program, and Google Cloud & NVIDIA community. These communities support our ongoing learning and exploration of AI tools and development practices. This support has been an integral part of [TonyOS](https://progresstechnologies.com/projects/tonyos/), our AI continuity system.
 
 ### Contact
 

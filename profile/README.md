@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/progress-technologies-horizontal-white-1200w.png">
+  <img src="assets/progress-technologies-horizontal-color-1200w.png" alt="Progress Technologies" width="300">
+</picture>
+
 ## Progress Technologies, Inc.
 
 Progress Technologies designs, builds and operates custom software, systems and digital products for specialized business needs.

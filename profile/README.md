@@ -27,6 +27,12 @@ Get it on [WordPress.org](https://wordpress.org/plugins/nestides-tide-chart/) ·
 
 Tide data is NOAA-derived and delivered through the Nestides hosted service. NOAA is not affiliated with, and does not endorse, Nestides.
 
+### Learning and community
+
+Our founder takes part in the NVIDIA Developer Program, the Google Developer Program and the Google Cloud & NVIDIA community. These communities support our ongoing learning and exploration of AI tools and development practices, and have been an integral part of building TonyOS, our AI continuity system.
+
+Program participation only; this is not a partnership with or endorsement by NVIDIA or Google.
+
 ### Contact
 
 - [LinkedIn](https://www.linkedin.com/company/progress-technologies/) (preferred for business inquiries)
